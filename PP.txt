@@ -1,0 +1,31 @@
+                               Title: Proposal Submission
+1. Project Title :
+2. Sub Area: 
+3. Duration in months :
+4. Total cost :
+5. Project Category: 
+Basic Research
+Applied Research 
+Technology Development
+Any other
+
+6. Principal Investigator:
+Designation :
+Department :
+Institute Name :
+Address :
+Telephone :
+E-mail :
+7. Date of Birth: 
+8. Sex (M/F) :
+
+
+9. Co-Investigator :
+Designation :
+Department :
+Institute Name :
+Address :
+Telephone :
+E-mail :
+10. Date of Birth :
+11. Sex (M/F) :
